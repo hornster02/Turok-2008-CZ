@@ -1,2 +1,9 @@
-# Turok-2008-CZ
-Turok - cestina dabing download rar 2008
+MYABANDONWARE - RIP by R.G. Mechanics (2024-03)
+<br/>
+Včetně CZ dabingu. Velikost 466MB https://drive.google.com/drive/folders/17U2gf2XxHYWwn9i9yCLbsu94K-0GGQxh
+
+Postup
+<br/>
+-aplikovat CZ patch
+<br/>
+-nakopírovat obsah složky "_CZ-PART2" do hry
