@@ -1,6 +1,6 @@
 MYABANDONWARE - RIP by R.G. Mechanics (2024-03)
 <br/>
-Včetně CZ dabingu. Velikost 466MB https://drive.google.com/drive/folders/17U2gf2XxHYWwn9i9yCLbsu94K-0GGQxh
+Velikost 466MB https://drive.google.com/drive/folders/17U2gf2XxHYWwn9i9yCLbsu94K-0GGQxh
 
 Postup
 <br/>
